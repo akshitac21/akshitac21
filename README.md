@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=detrimetall" alt="detrimetall" /></a> </p>
 
-- 🔭 I’m currently working on **Building projects in Python and Cpp**
+- 🔭 I’m currently working on **Learning the Mathematics for Machine Learning**
+
+- 🔭 Current focussed roadmap **Precalc--to--> Multi-variate Calculus ---> Linear Algebra ---> Statistics and Probability **
+
+- 🔭 On the side **Building projects in Python and Cpp**
 
 - 🌍 **India**
 
