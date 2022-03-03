@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Learning the Mathematics for Machine Learning**
 
-- 🔭 Current focussed roadmap **Precalc--to--> Multi-variate Calculus ---> Linear Algebra ---> Statistics and Probability**
+- 🔭 Current focussed roadmap **Multi-variate Calculus ---> Linear Algebra ---> Statistics and Probability**
 
 - 🔭 On the side **Building projects in Python and Cpp**
 
