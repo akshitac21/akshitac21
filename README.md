@@ -25,6 +25,8 @@
 
 - ⚡ Fun fact **Code in the day, play guitar and an artist by night :)**
 
+![Akshita's github activity graph](https://activity-graph.herokuapp.com/graph?username=detrimetall&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshita-choudhury-40455a231/?midtoken=aqgusih-_63jzw&midsig=3acjinnya4la81&trk=eml-email_welcome_abi_v2-header-21-profile&trkemail=eml-email_welcome_abi_v2-header-21-profile-null-g2l9s4%7ekzo6vprh%7elg-null-neptune%2fprofile%7evanity%2eview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshita-choudhury-40455a231/?midtoken=aqgusih-_63jzw&midsig=3acjinnya4la81&trk=eml-email_welcome_abi_v2-header-21-profile&trkemail=eml-email_welcome_abi_v2-header-21-profile-null-g2l9s4%7ekzo6vprh%7elg-null-neptune%2fprofile%7evanity%2eview" height="30" width="40" /></a>
