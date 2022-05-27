@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=detrimetall" alt="detrimetall" /></a> </p>
 
-- 🔭 I’m currently working on **Learning the Mathematics for Machine Learning**
+- 🔭 I’m currently working on **Learning Machine Learning with Python**
 
-- 🔭 Current focussed roadmap **Multi-variate Calculus ---> Linear Algebra ---> Statistics and Probability**
+- 🔭 Current focussed roadmap **Strengthening Data Structures and Algorithm within the next 6 months**
 
 - 🔭 On the side **Building projects in Python and Cpp**
 
 - 🌍 **India**
 
-- 🤖 I’m currently **2nd Year Btech Student of Computer Science**
+- 🤖 I’m currently **3rd Year Btech Student of Computer Science**
 
-- 🌱 I’m currently learning **Machine learning --> Data Science**
+- 🌱 I’m currently learning **Machine learning | Data Science | DSAlgo**
 
 - 📝 I regularly write articles on [https://scientax.blogspot.com/](https://scientax.blogspot.com/)
 
