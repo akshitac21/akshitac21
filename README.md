@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **Code in the day, play guitar and an artist by night :)**
 
-![Akshita's github activity graph](https://activity-graph.herokuapp.com/graph?username=detrimetall&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Akshita's github activity graph](https://activity-graph.herokuapp.com/graph?username=akshitac21&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
