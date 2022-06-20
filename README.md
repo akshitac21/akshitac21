@@ -37,9 +37,9 @@
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=detrimetall)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=detrimetall&show_icons=true&locale=en&layout=compact" alt="detrimetall" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitac21&show_icons=true&locale=en&layout=compact" alt="akshitac21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=detrimetall&show_icons=true&locale=en" alt="detrimetall" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitac21&show_icons=true&locale=en" alt="akshitac21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=detrimetall&" alt="detrimetall" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitac21&" alt="akshitac21" /></p>
 
