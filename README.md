@@ -34,7 +34,7 @@
 <a href="https://kaggle.com/akshita05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshita05" height="30" width="40" /></a>
 </p>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=detrimetall)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=akshitac21)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitac21&show_icons=true&locale=en&layout=compact" alt="akshitac21" /></p>
