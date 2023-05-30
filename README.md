@@ -37,7 +37,5 @@
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=akshitac21)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitac21&show_icons=true&locale=en&layout=compact" alt="akshitac21" /></p>
-
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitac21&" alt="akshitac21" /></p>---!>
 
