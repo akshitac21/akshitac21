@@ -18,7 +18,7 @@
 
 - 🌍 **India**
 
-- 🤖 I’m currently **3rd Year Btech Student of Computer Science**
+- 🤖 I’m currently **4th Year Btech Student of Computer Science**
 
 - 🌱 I’m currently learning **Machine learning | Data Science | DSAlgo**
 
