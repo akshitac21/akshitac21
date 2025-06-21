@@ -10,17 +10,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshitac21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitac21" alt="akshitac21" /></a> </p>-->
 
-- 🔭 I’m currently working on **Learning Machine Learning with Python**
+- 🔭 I’m currently working on **Having Strong Foundations on Full Stack Development**
 
-- 🔭 Current focussed roadmap **Strengthening Data Structures and Algorithm within the next 6 months**
+- 🔭 Current focussed roadmap **Strengthening Data Structures and Algorithm along with mastering GEN AI Tools**
 
-- 🔭 On the side **Building projects in Python and Cpp**
+- 🔭 On the side **Building projects**
 
 - 🌍 **India**
 
-- 🤖 I’m currently **4th Year Btech Student of Computer Science**
+- 🤖 I’m currently **Working as a Software Engineer**
 
-- 🌱 I’m currently learning **Machine learning | Data Science | DSAlgo**
+- 🌱 I’m currently learning **Full Stack Development | Gen AI | DSAlgo**
 
 - 📝 I regularly write articles on [https://scientax.blogspot.com/](https://scientax.blogspot.com/)
 
