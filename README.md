@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshita Choudhury</h1>
-<h3 align="center">A passionate programming enthusiast</h3>
 
 ![WhatsApp Video 2022-03-02 at 7 31 36 PM](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif)
-
-![WhatsApp Video 2022-03-02 at 7 31 36 PM](https://user-images.githubusercontent.com/99831967/156406446-bf48aa39-7659-496c-bcba-58338117f7b8.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitac21&label=Profile%20views&color=0e75b6&style=flat" alt="akshitac21" /> </p>
 
